@@ -1,7 +1,10 @@
-maven¹¹½¨¶àÄ£¿éspring bootÏîÄ¿
 
-½á¹¹½éÉÜ£º
-demo
-|- demo-core ºËĞÄÄ£¿é£¬Ìá¹©Êı¾İ¿âÖ§³Ö
-|- demo-common Í¨ÓÃÄ£¿é£¬Ìá¹©Í¨ÓÃmapper
-|- demo-web webÄ£¿é
+>mavenæ„å»ºå¤šæ¨¡å—spring booté¡¹ç›®
+
+æŠ€æœ¯æ ˆï¼š 
+Spring bootã€Druidã€MyBatisã€é€šç”¨Mapperã€Thymeleaf
+ç»“æ„ä»‹ç»ï¼š
+demo  
+|- demo-core æ ¸å¿ƒæ¨¡å—ï¼Œæä¾›æ•°æ®åº“æ”¯æŒ  
+|- demo-common é€šç”¨æ¨¡å—ï¼Œæä¾›é€šç”¨mapper  
+|- demo-web webæ¨¡å—
